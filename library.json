@@ -1,0 +1,12 @@
+{
+    "name": "Seeed ArduPy HM3301 ",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jpittman78/Ardupy_Seeed_PM2_5_Sensor_HM3301.git"
+    },
+    "dependencies": [{
+        "name": "Seeed_PM2_5_sensor_HM3301",
+        "url": "https://github.com/Seeed-Studio/Seeed_PM2_5_sensor_HM3301.git"
+    }]
+}
